@@ -15,5 +15,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ### AUTHORS
 * __WILLIAM KWABENA GYASI__ *-Coding And Deployment*
 ### Acknowledgments
-* 3am Coffee Featuring Focus.
+* 3am Coffee Featuring Focus and frustration 
+
 
